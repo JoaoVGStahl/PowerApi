@@ -1,0 +1,15 @@
+D:\dev\projects\PowerApi\PowerApi.Domain\bin\Debug\net7.0\PowerApi.Domain.deps.json
+D:\dev\projects\PowerApi\PowerApi.Domain\bin\Debug\net7.0\PowerApi.Domain.dll
+D:\dev\projects\PowerApi\PowerApi.Domain\bin\Debug\net7.0\PowerApi.Domain.pdb
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.AssemblyInfoInputs.cache
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.AssemblyInfo.cs
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.csproj.CoreCompileInputs.cache
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.dll
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\refint\PowerApi.Domain.dll
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.pdb
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\ref\PowerApi.Domain.dll
+D:\dev\projects\PowerApi\PowerApi.Domain\bin\Debug\net7.0\PowerApi.Application.dll
+D:\dev\projects\PowerApi\PowerApi.Domain\bin\Debug\net7.0\PowerApi.Application.pdb
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.csproj.AssemblyReference.cache
+D:\dev\projects\PowerApi\PowerApi.Domain\obj\Debug\net7.0\PowerApi.Domain.csproj.CopyComplete

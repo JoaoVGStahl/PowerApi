@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFoBBFgRBCA7gESYqWg5gohoWBqpTKgowSlWydMtBrOULeLFMFf2Z+Fy9QNudX4qBNNpEGzK2plXTTGGon/apA==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\projects\\PowerApi\\PowerApi.Application\\PowerApi.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jvito\\.nuget\\packages\\fluentvalidation\\11.8.1\\fluentvalidation.11.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}
